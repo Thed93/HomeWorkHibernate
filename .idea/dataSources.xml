@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+        <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="ee23f41c-3c1b-4776-acfc-bc335c469b8a">
+            <driver-ref>postgresql</driver-ref>
+            <synchronize>true</synchronize>
+            <imported>true</imported>
+            <remarks>Hibernate
+
+                C:/Users/kozya/IdeaProjects/HomeWorkHibernate/src/main/resources/hibernate.cfg.xml</remarks>
+            <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+            <jdbc-url>jdbc:postgresql://localhost:5432/skypro</jdbc-url>
+            <working-dir>$ProjectFileDir$</working-dir>
+        </data-source>
+    </component>
+</project>
